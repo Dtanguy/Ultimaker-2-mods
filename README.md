@@ -10,18 +10,18 @@ The original firmware for the UM2 an the .STEP file come from here : https://git
 - Firmware : https://github.com/Dtanguy/UM2/tree/master/Firmware%20for%20Cyclops%20hotend
 - 3D parts : https://github.com/Dtanguy/UM2/tree/master/Cyclops%20mount
 <p align="center">
-	<img src="https://raw.githubusercontent.com/dtanguy/UM2/master/Cyclops%20mount/img.jpg" width="60%">
+	<img src="https://raw.githubusercontent.com/dtanguy/UM2/master/Cyclops%20mount/img.jpg" width="40%">
 </p>
 
 ##E3D hotend
 - Firmware : https://github.com/Dtanguy/UM2/tree/master/Firmware%20for%20E3D%20v6%20hotend
 - 3D parts : https://github.com/Dtanguy/UM2/tree/master/E3D%20v6%20mount
 <p align="center">
-	<img src="https://raw.githubusercontent.com/dtanguy/UM2/master/E3D%20v6%20mount/img.jpg" width="60%">
+	<img src="https://raw.githubusercontent.com/dtanguy/UM2/master/E3D%20v6%20mount/img.jpg" width="40%">
 </p>
 
 ##Auto remove finish print of the bed
 - 3D parts : https://github.com/Dtanguy/UM2/tree/master/Auto%20remove
 <p align="center">
-	<img src="https://raw.githubusercontent.com/dtanguy/UM2/master/Auto%20remove/img.jpg" width="60%">
+	<img src="https://raw.githubusercontent.com/dtanguy/UM2/master/Auto%20remove/img.jpg" width="40%">
 </p>
